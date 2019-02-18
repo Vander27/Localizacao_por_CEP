@@ -1,0 +1,7 @@
+C:\Users\Vanderlei\source\repos\LocalizaçãoAPI\ProjetoAPI\bin\Debug\ProjetoAPI.exe.config
+C:\Users\Vanderlei\source\repos\LocalizaçãoAPI\ProjetoAPI\bin\Debug\ProjetoAPI.exe
+C:\Users\Vanderlei\source\repos\LocalizaçãoAPI\ProjetoAPI\bin\Debug\ProjetoAPI.pdb
+C:\Users\Vanderlei\source\repos\LocalizaçãoAPI\ProjetoAPI\obj\Debug\ProjetoAPI.csprojAssemblyReference.cache
+C:\Users\Vanderlei\source\repos\LocalizaçãoAPI\ProjetoAPI\obj\Debug\ProjetoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\source\repos\LocalizaçãoAPI\ProjetoAPI\obj\Debug\ProjetoAPI.exe
+C:\Users\Vanderlei\source\repos\LocalizaçãoAPI\ProjetoAPI\obj\Debug\ProjetoAPI.pdb
